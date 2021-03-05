@@ -1,5 +1,6 @@
-# <center><ins>Telco Customer Churn Analysis: EDA & Classification Models<ins/><center/>
-### <center>Andrew Cole<center/>
+# <center><ins>Telco Customer Churn Analysis<ins/><center/>
+### <ins>EDA & Classification Models<ins/>
+
 
 
 Please refer to the links below for a detailed blog post walking through the analysis:
